@@ -1,0 +1,27 @@
+﻿# Python environments
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Backups and temporary files
+backups/
+*.log
+*.tmp
+
+# Superseded or excluded datasets
+data/processed/cricsheet_odi/
+data/processed/model_ready/
+data/processed/player_data/identity_migration_20261117/
+data/processed/player_data/identity_migration_20261123/
+
+# Accidental nested GitHub clone
+CricketIQ/

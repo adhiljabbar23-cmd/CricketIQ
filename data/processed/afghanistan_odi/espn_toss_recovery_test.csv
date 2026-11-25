@@ -1,0 +1,4 @@
+match_id,match,date,format,venue,toss_winner,toss_decision,toss_status,status
+1556871,Afghanistan v Zimbabwe,2026-10-23T11:30Z,ODI,Sharjah Cricket Stadium,Zimbabwe,bat,Extracted from ESPN API,Success
+1555119,Afghanistan v Bangladesh,2026-10-21T11:30Z,ODI,Sharjah Cricket Stadium,Bangladesh,bat,Extracted from ESPN API,Success
+1555118,Afghanistan v Zimbabwe,2026-10-19T11:30Z,ODI,"Zayed Cricket Stadium, Abu Dhabi",Afghanistan,bat,Extracted from ESPN API,Success

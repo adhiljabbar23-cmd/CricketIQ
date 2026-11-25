@@ -1,0 +1,4 @@
+match_id,date,team1,team2,venue,city,tournament,toss_winner,toss_decision,winner,result_type,result_margin,source_primary,source_secondary,scorecard_status,ball_by_ball_status,verification_status,notes
+,2026-10-19,Afghanistan,Zimbabwe,Sheikh Zayed Stadium,Abu Dhabi,ODI Tri-Nation Series in UAE 2026,Afghanistan,bat,Afghanistan,Win,158 runs,Cricbuzz,Moneycontrol,Available,Not yet checked,Needs re-verification,Afghanistan 294/10; Zimbabwe 136/10.
+,2026-10-21,Bangladesh,Afghanistan,Sharjah Cricket Stadium,Sharjah,ODI Tri-Nation Series in UAE 2026,Bangladesh,bat,Afghanistan,Win,7 wickets,Cricbuzz,Moneycontrol,Available,Not yet checked,Needs re-verification,Bangladesh 160/10; Afghanistan 161/3.
+,2026-10-23,Zimbabwe,Afghanistan,Sharjah Cricket Stadium,Sharjah,ODI Tri-Nation Series in UAE 2026,Zimbabwe,bat,Afghanistan,Win,7 wickets,ICC,Cricbuzz,Available,Not yet checked,Needs re-verification,Zimbabwe 169/10; Afghanistan 170/3.
